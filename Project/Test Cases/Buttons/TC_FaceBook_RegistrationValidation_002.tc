@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_FaceBook_RegistrationValidation_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>061c462b-c1bd-4d47-a64a-d2e37066d198</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa9d4607-46f8-4ae2-8218-a5353e5110bf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>feb2dc0f-90cc-4509-85a8-cc4e52b375d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>889a483d-d251-45ba-8176-432526a24cff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>aa9d4607-46f8-4ae2-8218-a5353e5110bf</id>
+      <masked>false</masked>
+      <name>dayElement</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description></description>
+      <id>feb2dc0f-90cc-4509-85a8-cc4e52b375d3</id>
+      <masked>false</masked>
+      <name>monthElement</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>889a483d-d251-45ba-8176-432526a24cff</id>
+      <masked>false</masked>
+      <name>yearElement</name>
+   </variable>
+</TestCaseEntity>

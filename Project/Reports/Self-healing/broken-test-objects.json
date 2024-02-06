@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/FaceBook_RegistrationValidation_OR/Page_Facebook  log in or sign up/a_Create new account",
+      "brokenLocator": "//a[@id\u003d\u0027u_0_0_k3\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Create new account\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/FaceBook_RegistrationValidation_OR/Page_Facebook  log in or sign up/a_Create new account_link.png"
+    }
+  ]
+}

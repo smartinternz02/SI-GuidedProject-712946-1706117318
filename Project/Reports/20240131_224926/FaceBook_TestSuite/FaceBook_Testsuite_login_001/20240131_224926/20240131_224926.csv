@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FaceBook_Testsuite_login_001,Chrome 120.0.0.0,,,31-01-2024 22:49:35,31-01-2024 22:50:58,1m - 22.449s,FAILED
+,,,,,,,
+Test Cases/TC_FaceBook/FaceBook_Login_001,Chrome 120.0.0.0,,,31-01-2024 22:49:36,31-01-2024 22:50:21,45.660s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,31-01-2024 22:49:36,31-01-2024 22:49:42,5.797s,PASSED
+"navigateToUrl(""www.facebook.com"")",Chrome 120.0.0.0,,,31-01-2024 22:49:42,31-01-2024 22:49:46,3.773s,PASSED
+"setText(findTestObject(""Page_Facebook  log in or sign up/input_Facebook helps you connect and share with the people in your life_email""), ""7995051864"")",Chrome 120.0.0.0,,,31-01-2024 22:49:46,31-01-2024 22:49:47,1.269s,PASSED
+"setText(findTestObject(""Page_Facebook  log in or sign up/input_Facebook helps you connect and share with the people in your life_pass""), ""Facebook@2001"")",Chrome 120.0.0.0,,,31-01-2024 22:49:47,31-01-2024 22:49:48,0.974s,PASSED
+"click(findTestObject(""Page_Facebook  log in or sign up/button_Log in""))",Chrome 120.0.0.0,,,31-01-2024 22:49:48,31-01-2024 22:50:21,33.469s,FAILED
+,,,,,,,
+Test Cases/Buttons/TC_FaceBook_RegistrationValidation_002,Chrome 120.0.0.0,,,31-01-2024 22:50:21,31-01-2024 22:50:58,36.427s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,31-01-2024 22:50:22,31-01-2024 22:50:24,2.148s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 120.0.0.0,,,31-01-2024 22:50:24,31-01-2024 22:50:26,2.179s,PASSED
+"click(findTestObject(""Object Repository/FaceBook_RegistrationValidation_OR/Page_Facebook  log in or sign up/a_Create new account""))",Chrome 120.0.0.0,,,31-01-2024 22:50:26,31-01-2024 22:50:58,31.671s,FAILED
